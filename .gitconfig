@@ -1,6 +1,6 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = Fabiano Tessarolo
+  email = fabiano@tessarolo.dev
 [core]
   editor = vi
   excludesfile = ~/.gitignore
