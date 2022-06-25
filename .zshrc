@@ -1,7 +1,4 @@
-#
 # .zshrc
-#
-# @author Fabiano Tessarolo
 #
 
 # Include alias file (if present) containing aliases for ssh, etc.
