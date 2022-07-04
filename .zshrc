@@ -2,6 +2,10 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 DEFAULT_USER=$(whoami)
 
+
+# Sets https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vi-mode
+VI_MODE_SET_CURSOR=true
+
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
